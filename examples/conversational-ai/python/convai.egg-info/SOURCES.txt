@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+convai/__init__.py
+convai/demo.py
+convai.egg-info/PKG-INFO
+convai.egg-info/SOURCES.txt
+convai.egg-info/dependency_links.txt
+convai.egg-info/top_level.txt
